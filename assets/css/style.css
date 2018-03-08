@@ -2,7 +2,7 @@ body {
 
     background-image: url(../imgs/dust.png);
     padding-bottom: 120px;
-    
+
     
 }
 
@@ -43,3 +43,10 @@ h1, h3 {
 .text-foot {
     color: #ffffff;
 }
+
+.caption {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+} 
