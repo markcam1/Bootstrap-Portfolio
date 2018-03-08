@@ -1,0 +1,45 @@
+body {
+
+    background-image: url(../imgs/dust.png);
+    padding-bottom: 120px;
+    
+    
+}
+
+.fg-box {
+    padding: 10px;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+}
+
+h1, h3 {
+    color: #4aaaa5;
+}
+
+#cam {
+    color: #ffffff;
+    
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+.panel  {
+    padding: 10px;
+}
+
+.col-md-7 {
+    padding: 15px;
+ 
+}
+
+.navbar-fixed-bottom {
+    background-color: #666666;
+}
+
+.text-foot {
+    color: #ffffff;
+}
